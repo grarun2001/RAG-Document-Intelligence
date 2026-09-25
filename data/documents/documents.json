@@ -1,0 +1,107 @@
+[
+    {
+        "document_id": "employee_handbook_001",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data/documents/Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "58e05100-d7b3-4d5a-be57-827fccbbe787",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    },
+    {
+        "document_id": "88e3a4e3-642d-4211-a141-a9f3a15aa0e3",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    },
+    {
+        "document_id": "35a9668a-c50f-423d-b592-cbc142a84c00",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    },
+    {
+        "document_id": "818d6ba6-014e-4868-9423-da17b8941ec1",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "15559857-9469-46eb-878c-7a03f7a97f3d",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "ed9da9eb-cb44-41bb-9e5e-924057536042",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "ca1444a9-2067-431e-a519-6c6dfc21f1ba",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "a23c7364-a812-4592-bd29-fe3b142801bb",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    },
+    {
+        "document_id": "bc3cb30d-f11b-4baf-a931-66fa5b2332ad",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    },
+    {
+        "document_id": "19221d71-fd10-4fe1-a9f9-96b131bc7199",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    },
+    {
+        "document_id": "61926e1e-f2b3-4046-bbbd-e98d20c9f9ce",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "cd79b430-863d-40c8-b88b-66871236a069",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "4212f8c8-5394-4b74-984f-7f5790b452d4",
+        "document_name": "Employee_Handbook.pdf",
+        "file_path": "data\\documents\\Employee_Handbook.pdf",
+        "pages": 34,
+        "chunks": 81
+    },
+    {
+        "document_id": "e41e67eb-934b-48bf-9a61-7178e42d6c5b",
+        "document_name": "Leave_Attendance_Policy.pdf",
+        "file_path": "data\\documents\\Leave_Attendance_Policy.pdf",
+        "pages": 8,
+        "chunks": 19
+    }
+]
